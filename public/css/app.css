@@ -8351,6 +8351,9 @@ footer {
   color: #777;
   font-size: 13px;
   font-weight: bold;
+  /*.float-right{
+    float:right;
+  }*/
 }
 
 footer a {
@@ -8369,8 +8372,3 @@ footer img.brand-icon {
   width: 17px;
   height: 17px;
 }
-
-footer .float-right {
-  float: right;
-}
-
